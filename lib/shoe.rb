@@ -14,4 +14,6 @@ class Shoe
   def color
     @color
   end
+  
+  def sh
 end
