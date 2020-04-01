@@ -35,5 +35,8 @@ class Shoe
     @condition = condition
   end
   
-  def 
+  def condition
+    @condition
+  end
+    
 end
